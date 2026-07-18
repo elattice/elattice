@@ -18,4 +18,4 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=react,next.js,tailwind,tauri,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,tauri,)](https://skillicons.dev)
