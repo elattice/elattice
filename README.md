@@ -7,3 +7,7 @@
 ###
 
 <h3 align="left">Languages</h3>
+
+###
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,git,github,vscode,neovim,apple)](https://skillicons.dev)
