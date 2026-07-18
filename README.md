@@ -10,7 +10,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=rust,cpp,go,ts,js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,go,ts,js,py)](https://skillicons.dev)
 
 ###
 
