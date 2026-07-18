@@ -53,4 +53,4 @@
 
 ###
 
-<p align="left">I'm a student at "National Institute of Technology,Kushiro College".<br><br>I enjoy backend development, especially using Rust and Go.
+<p align="left">I'm a student at "National Institute of Technology,Kushiro College".<br><br>I enjoy backend development, especially using Rust and Go.<br><br>Rust is God!!!!!
