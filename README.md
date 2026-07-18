@@ -19,3 +19,11 @@
 ###
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,tauri,)](https://skillicons.dev)
+
+###
+
+<h3 align="left">Editors</h3>
+
+###
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,zed,neovim)](https://skillicons.dev)
