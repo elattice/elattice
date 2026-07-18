@@ -10,4 +10,4 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,git,github,vscode,neovim,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,cpp,go,ts,js,py)](https://skillicons.dev)
