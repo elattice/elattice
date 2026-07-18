@@ -27,3 +27,11 @@
 ###
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,neovim)](https://skillicons.dev)
+
+###
+
+<h3 align="left">Other</h3>
+
+###
+
+<p>Competitive Programming</p>
