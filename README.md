@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="left">Github status</h2>
+<h2 align="left">Github Stats</h2>
 
 ###
 
